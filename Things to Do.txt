@@ -1,0 +1,21 @@
+Fork repository: IBM-Project-12977-1659504253
+Add/edit files you want. 
+Commit the change
+
+
+git status: All files which have been changed but not added to the buffer to commit (red color)
+git add . : Add all changed files to the buffer
+git commit -m "type your comment here": Displays comment on successful commit.
+
+To make a local copy of the repository:
+  git remote add origin https://github.com/IBM-EPBL/IBM-Project-12977-1659504253.git
+  
+or copy paste the above url in git desktop
+
+
+//To commit changes from VS Code  
+Open file in vs code
+Install github extension
+update files as required
+Bottom sync button will show no. of changes in repo but not in local (down arrow). No. of changes in local machine but not in repo (up arrow). 
+Click button and click "OK"
